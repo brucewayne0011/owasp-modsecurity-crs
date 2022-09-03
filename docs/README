@@ -6,3 +6,4 @@ You can download the documentation using git:
     $ git submodule update
 	
 Alternatively, the latest version of the documentation is available at https://www.modsecurity.org/CRS/Documentation/
+this is the new change made by m0rty
